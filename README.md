@@ -1,4 +1,4 @@
 # bim
-# 因没有商业项目，所以将此域名出售。这是一个非常简洁，专业的域名。有实力的公司，得到这个域名将大有作为。
+# This domain name was sold because there is no commercial project. This is a very concise, professional domain name. A strong company, getting this domain name will make a big difference.
 # sale 22388$
 # email：1550442033@qq.com
