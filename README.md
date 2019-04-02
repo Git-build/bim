@@ -3,10 +3,8 @@
 # sale 22388$
 # email：1550442033@qq.com
 # <img src="B93E298F-7F62-44C0-AE79-6ABB36D4F368.jpeg" width="100%">
-# 最常用英语单词2000个
-
-1	a [ei, ə] art.一(个)；任何一(个)；每一(个)
-2	I [ai] pron.我
+# 1	a [ei, ə] art.一(个)；任何一(个)；每一(个)
+# 2	I [ai] pron.我
 3	ability [əbiliti] n.能力，本领；才能，才智
 4	able [eibəl] a.能够…的，得以…的；有才干的
 5	about [əbaut] prep.关于；在…周围 ad.大约；在附近
